@@ -2,7 +2,7 @@ k-ads
 ========
 
 ```
-npm install
+npm install k-ads
 ```
 
 ```
